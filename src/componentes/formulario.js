@@ -16,7 +16,7 @@ function formulario() {
                 <input type="time" name="hora" class="u-full-width" value=""/>
                 <label>Sintomas</label>
                 <textarea name="sintomas" class="u-full-width"></textarea>
-                <button type="submit" class="u-full-width button-primary">Agregar Cita</button>
+            <button type="submit" class="u-full-width button-primary">Agregar Cita</button>
             </form>
           </div>
       </div>
